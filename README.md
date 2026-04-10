@@ -2,7 +2,7 @@
 
 This project features a comprehensive financial modeling system designed to monitor and analyze a Core-Satellite investment strategy. The objective was to build a scalable architecture that integrates raw transaction data into a professional-grade analytical suite.
 
-<img width="1896" height="812" alt="Screenshot 2026-03-25 154717" src="https://github.com/user-attachments/assets/da1fb59c-ed47-4422-915a-8e0de78a44b4" />
+<img width="1857" height="783" alt="Screenshot 2026-04-10 182648" src="https://github.com/user-attachments/assets/59c427ab-3845-4f28-b3b8-8936a52a2c3f" />
 
 # Technical Methodology (The Excel Engine)
 The core of the analysis was developed using advanced Microsoft Excel functions to ensure data accuracy and model stability:
@@ -15,7 +15,7 @@ Risk and Volatility Metrics: Volatility was derived using STDEV.P on daily retur
 
 Diversification Analysis: A Pearson Correlation Matrix was generated to identify interdependence between "Satellite" positions and "Core" holdings.
 
-<img width="1897" height="772" alt="Screenshot 2026-03-25 150441" src="https://github.com/user-attachments/assets/a2eda05f-9401-4482-a16b-6b6af4150fbe" />
+<img width="1869" height="786" alt="Screenshot 2026-04-10 183048" src="https://github.com/user-attachments/assets/6629859d-4f08-4a16-b9fa-c74e24125812" />
 
 # Scalability and Dynamic Logic
 The model is built as a relational system rather than a static spreadsheet. The connection between the Movements Table (Transactions) and the Insights Table (Aggregated Data) is governed by a dynamic array formula:
@@ -35,7 +35,7 @@ Risk-Adjusted Efficiency: A scatter plot mapping the Sharpe Ratio against Volati
 
 Benchmark Comparison: A time-series analysis tracking the portfolio's growth trajectory against market leaders.
 
-<img width="1813" height="895" alt="Screenshot 2026-03-26 100858" src="https://github.com/user-attachments/assets/302bb007-7f0a-4b92-9eef-0aa145fbe70c" />
+<img width="1765" height="855" alt="Screenshot 2026-04-10 182741" src="https://github.com/user-attachments/assets/203bf5c5-092e-4088-8205-c91b43e98717" />
 
 # Validation via Kaggle:
 

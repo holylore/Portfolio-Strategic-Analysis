@@ -44,4 +44,4 @@ The project methodology and workflow were shared on Kaggle to facilitate peer re
 # Project links:
 
 https://www.kaggle.com/code/lorenzopardini/strategic-portfolio-analysis-risk-management
-https://public.tableau.com/views/TableauViz_17745153676280/holyloresPortfolio_?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/lorenzo.pardini/vizzes

@@ -15,7 +15,7 @@ Risk and Volatility Metrics: Volatility was derived using STDEV.P on daily retur
 
 Diversification Analysis: A Pearson Correlation Matrix was generated to identify interdependence between "Satellite" positions and "Core" holdings.
 
-<img width="1887" height="773" alt="Screenshot 2026-04-12 185721" src="https://github.com/user-attachments/assets/6b2901de-1342-47f8-90a3-2596565cbd9a" />
+<img width="1869" height="786" alt="image" src="https://github.com/user-attachments/assets/99ede666-5e56-43bf-901f-ac13e5e97feb" />
 
 # Scalability and Dynamic Logic
 The model is built as a relational system rather than a static spreadsheet. The connection between the Movements Table (Transactions) and the Insights Table (Aggregated Data) is governed by a dynamic array formula:

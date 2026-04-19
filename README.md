@@ -2,7 +2,7 @@
 
 This project features a comprehensive financial modeling system designed to monitor and analyze a Core-Satellite investment strategy. The objective was to build a scalable architecture that integrates raw transaction data into a professional-grade analytical suite.
 
-<img width="1857" height="783" alt="Screenshot 2026-04-10 182648" src="https://github.com/user-attachments/assets/59c427ab-3845-4f28-b3b8-8936a52a2c3f" />
+<img width="1855" height="742" alt="Screenshot 2026-04-19 095904" src="https://github.com/user-attachments/assets/67d32e0a-f491-4a94-8623-cbb9a96817b3" />
 
 # Technical Methodology (The Excel Engine)
 The core of the analysis was developed using advanced Microsoft Excel functions to ensure data accuracy and model stability:
@@ -15,7 +15,7 @@ Risk and Volatility Metrics: Volatility was derived using STDEV.P on daily retur
 
 Diversification Analysis: A Pearson Correlation Matrix was generated to identify interdependence between "Satellite" positions and "Core" holdings.
 
-<img width="1869" height="786" alt="image" src="https://github.com/user-attachments/assets/99ede666-5e56-43bf-901f-ac13e5e97feb" />
+<img width="1866" height="747" alt="Screenshot 2026-04-19 095842" src="https://github.com/user-attachments/assets/8ca33c5c-80ba-4350-bfeb-b74a78f102a9" />
 
 # Scalability and Dynamic Logic
 The model is built as a relational system rather than a static spreadsheet. The connection between the Movements Table (Transactions) and the Insights Table (Aggregated Data) is governed by a dynamic array formula:
@@ -35,7 +35,7 @@ Risk-Adjusted Efficiency: A scatter plot mapping the Sharpe Ratio against Volati
 
 Benchmark Comparison: A time-series analysis tracking the portfolio's growth trajectory against market leaders.
 
-<img width="1765" height="855" alt="Screenshot 2026-04-10 182741" src="https://github.com/user-attachments/assets/203bf5c5-092e-4088-8205-c91b43e98717" />
+<img width="1884" height="970" alt="Screenshot 2026-04-19 095732" src="https://github.com/user-attachments/assets/398df22a-a7db-41a0-9e75-27c63e829786" />
 
 # Validation via Kaggle:
 
